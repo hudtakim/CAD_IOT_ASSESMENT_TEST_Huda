@@ -10,10 +10,11 @@ This project are consist of three python apps.
   - This project was tested on Python 3.8.0.
   - Before using the apps, install the requirement for each app according to their requirement.txt
 
-#How to Run the App?
+#Run the App on Terminal:
   - Use "python problem1.py" for Salary Conversion App
   - Use "python problem2.py" for Sensor Aggregation App
-  - Use "python problem3.py" for Sensor Streaming App
+  - Use "python problem3_point1.py" for Sensor Streaming App point 1
+  - Use "python problem3_point2.py" for Sensor Streaming App point 2
 
 #How to run the Test?
   - For each App, go to folder named "test", and use "python -m unittest" on your terminal.
